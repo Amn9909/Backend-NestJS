@@ -1,0 +1,1 @@
+{"version":3,"file":"Feature2.module.js","sourceRoot":"","sources":["../src/Feature2.module.ts"],"names":[],"mappings":";;;;;;;;;;;;AAAA,2CAAwC;AAQjC,IAAM,cAAc,GAApB,MAAM,cAAc;IACvB;QACI,OAAO,CAAC,GAAG,CAAC,4BAA4B,CAAC,CAAA;IAC3C,CAAC;CACN,CAAA;AAJY,cAAc;IAL1B,IAAA,eAAM,EAAC;QACN,OAAO,EAAE,EAAE;QACX,WAAW,EAAE,EAAE;QACf,SAAS,EAAE,EAAE;KACd,CAAC;;GACW,cAAc,CAI1B;AAJY,wCAAc"}
